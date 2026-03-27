@@ -1,4 +1,4 @@
-# Field-based Correction To The Kuramoto Model At N = 2
+# Field-Based Correction To The Kuramoto Model At N = 2
 ### A Structural Resolution of the N=2 Synchronization Failure
 
 **Author:** Carolina Johnson (CJ)
