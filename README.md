@@ -107,6 +107,8 @@ Full publication list: https://www.semanticdrift.net
 - `README.md` — this file
 - `Field-based Coupling.pdf` — full paper
 - `field_based_coupling.py` — standalone Python simulation
+- `kuramoto_comparison.png` — field-based fix vs classical Kuramoto
+  
 
 ---
 
