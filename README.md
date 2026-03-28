@@ -105,7 +105,7 @@ Full publication list: https://www.semanticdrift.net
 ## Repository Contents
 
 - `README.md` — this file
-- `field-based-coupling.pdf` — full paper
+- `Field-based Coupling.pdf` — full paper
 - `field_based_coupling.py` — standalone Python simulation
 
 ---
