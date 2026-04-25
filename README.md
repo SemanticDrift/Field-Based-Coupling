@@ -96,7 +96,6 @@ Output: side-by-side phase trajectories showing Kuramoto tug-of-war versus field
 | Framework | DOI |
 |-----------|-----|
 | Stratified Axiomatics | https://doi.org/10.5281/zenodo.18227025 |
-| The ★ Convergence Operator | https://doi.org/10.5281/zenodo.18791933 |
 
 Full publication list: https://www.semanticdrift.net
 
